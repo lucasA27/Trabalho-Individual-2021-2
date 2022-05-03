@@ -41,4 +41,4 @@ jobs:
         with:
           context: "{{defaultContext}}:aplicacao"
           push: true
-          tags: lucasa27/gces:latest
+          tags: lucasa27/gces:aplicacao
